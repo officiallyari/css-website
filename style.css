@@ -49,9 +49,10 @@ body{
 }
 #showcase h1{
 	color: #fff;
+	text-decoration: none;
 	font-size: 50px;
 	line-height:1.6em;
-	padding-top: 30px;
+	padding-top:30px;
 }
 
 #main{
